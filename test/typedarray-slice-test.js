@@ -11,7 +11,7 @@ describe('TypedArray', function () {
             });
         });
     } else {
-        console.warning(
+        console.info(
             'This test is being run on node ' + process.version +
             ' which has native slice support for TypedArrays.'
         );
