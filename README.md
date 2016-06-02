@@ -1,5 +1,7 @@
 # TypedArray Slice Polyfill
 
+[![Build Status](https://travis-ci.org/jaredmcateer/typedarray-slice.svg?branch=master)](https://travis-ci.org/jaredmcateer/typedarray-slice)
+
 Node v0.12 changed from a native implementation of TypedArrays to the V8 engine
 implementation. Unfortunately during this time the `slice` method on the
 TypedArrays had not been implemented yet. There is another method that is
