@@ -1,6 +1,6 @@
 {
   "name": "typedarray-slice",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Slice polyfill for TypedArrays in Node v0.12",
   "main": "src/typedarray-slice.js",
   "scripts": {
@@ -8,6 +8,7 @@
   },
   "author": "Jared McAteer",
   "license": "MIT",
+  "keywords": ["TypedArray", "slice", "v0.12", "Int8Array", "Uint8Array", "Int16Array", "Uint16Array", "Int32Array", "Uint32Array", "Float32Array", "Float64Array"],
   "engines": [
     {
       "node": "0.12"
