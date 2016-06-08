@@ -19,7 +19,7 @@ implementation.
 
 ## Usage
 
-As this is a polyfill it does not need export anything, simply require the
+As this is a polyfill it does not need to export anything, simply require the
 module at the beginning of your app and all TypedArrays will have the `slice`
 method added to their prototype
 

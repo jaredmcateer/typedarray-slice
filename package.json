@@ -1,7 +1,7 @@
 {
   "name": "typedarray-slice",
-  "version": "1.0.2",
-  "description": "Slice polyfill for typed arrays. Node v0.12, switched to v8s implementation of typed arrays and lost slice support. This polyfills them back in.",
+  "version": "1.0.3",
+  "description": "Slice polyfill for TypedArrays in Node v0.12",
   "main": "src/typedarray-slice.js",
   "scripts": {
     "test": "mocha test/"
